@@ -1,2 +1,19 @@
-# HR-Analytics-Employee-Attrition
-HR Analytics and Employee Attrition Dashboard using Microsoft Excel
+# HR Analytics & Employee Attrition Dashboard
+
+## Project Overview
+
+## Objectives
+
+## Tools Used
+
+## Dataset
+
+## Key Analysis
+
+## Dashboard
+
+## Key Insights
+
+## Recommendations
+
+## Skills Demonstrated
